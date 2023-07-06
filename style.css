@@ -1,0 +1,44 @@
+#area{
+    width: 350px;
+    height: 600px;
+    border: 2px solid;
+    position: absolute;
+    top: 200px;
+}
+#area-2{
+    width: 350px;
+    height: 600px;
+    border: 2px solid;
+    position: absolute;
+    top: 200px;
+    left: 450px;
+}
+
+.block{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+}
+
+#block{
+    background: url(https://imgpng.ru/d/pear_PNG3463.png) no-repeat;
+    background-size: contain;
+}
+#block-2{
+    background: url(https://free-png.ru/wp-content/uploads/2022/02/free-png.ru-107-262x340.png) no-repeat;
+    background-size: contain;   
+}
+
+#block-3{
+    background: url(https://i.pinimg.com/originals/ea/c9/96/eac9960a545ec495d88ce0554b9dd51a.png) no-repeat;
+    background-size: contain;
+}
+
+#block-4{
+    background: url(https://imgpng.ru/d/apple_PNG12439.png) no-repeat;
+    background-size: contain;
+}
+#block-5{
+    background: url(https://free-png.ru/wp-content/uploads/2022/02/free-png.ru-160.png) no-repeat;
+    background-size: contain;
+}
